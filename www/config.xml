@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.costasgalicia.app"
+        version   = "1.0.0">
+    <name>Costas Galicia</name>
+
+    <description>
+        Aplicación oficial de costas galicia.
+    </description>
+
+    <author href="http://e-imaxina.com" email="info@e-imaxina.com">
+        Imaxina Novas Tecnoloxías
+    </author>
+
+
+    <feature name="http://plugins.phonegap.com/ChildBrowser/2.0.1" />
+    <feature name="http://api.phonegap.com/1.0/network" />
+    <feature name="http://api.phonegap.com/1.0/device" />
+
+
+    <preference name="orientation"      value="landscape" />
+    <preference name="target-device"    value="tablet" />
+    <preference name="fullscreen"       value="true" />
+    <preference name="load-url-timeout" value="60000" />
+    <preference name="stay-in-webview"  value="true" />
+
+    <icon src="icon.png" />
+
+</widget>
