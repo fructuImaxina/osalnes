@@ -23,6 +23,7 @@
     <preference name="fullscreen"       value="true" />
     <preference name="load-url-timeout" value="60000" />
     <preference name="stay-in-webview"  value="true" />
+    <preference name="android-installLocation"  value="preferExternal" />
 
     <icon src="icon.png" />
 
