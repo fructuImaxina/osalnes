@@ -3,14 +3,14 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.osalnes.app"
         version   = "1.0.0">
-    <name>O Salnés</name>
+    <name>O Salnes</name>
 
     <description>
-        Aplicación oficial de O Salnés
+        Aplicacion oficial de O Salnes
     </description>
 
     <author href="http://e-imaxina.com" email="info@e-imaxina.com">
-        Imaxina Novas Tecnoloxías
+        Imaxina Novas Tecnoloxias
     </author>
 
 
